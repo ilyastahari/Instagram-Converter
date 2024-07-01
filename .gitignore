@@ -1,0 +1,21 @@
+# os stuff
+.DS_Store
+desktop.ini
+
+# npm
+node_modules
+
+# secrets
+.env
+
+# docker
+docker-compose.yml
+
+# vscode
+.vscode
+
+# cookie file
+cookies.json
+
+# page build
+build
